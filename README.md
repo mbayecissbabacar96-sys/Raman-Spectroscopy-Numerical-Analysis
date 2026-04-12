@@ -5,8 +5,8 @@ Ce projet porte sur la simulation et le traitement avancé de signaux spectrosco
 ---
 
 ## 🔗 Accès aux documents
-* 📄 **Rapport complet :** [Analyse_Spectroscopique_Raman.pdf](./Mini_Projet_personnel.pdf)
-* 💻 **Code Source (Python) :** [script_analyse_raman.py](./Script_Python_projet.py)
+* 📄 **Rapport complet :** [Mini_Projet_personnel.pdf](./Mini_Projet_personnel.pdf)
+* 💻 **Code Source (Python) :** [Script Python projet.py](./Script%20Python%20projet.py)
 
 ---
 
