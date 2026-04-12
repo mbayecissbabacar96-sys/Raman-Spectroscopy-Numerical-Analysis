@@ -5,7 +5,7 @@ Ce projet porte sur la simulation et le traitement avancé de signaux spectrosco
 ---
 
 ## 🔗 Accès aux documents
-* 📄 **Rapport complet :** [Mini_Projet_personnel.pdf](./Mini_Projet_personnel.pdf)
+* 📄 **Rapport complet :** [Mini_Projet_personnel.pdf](./Mini__Projet_personnel.pdf)
 * 💻 **Code Source (Python) :** [Script Python projet.py](./Script%20Python%20projet.py)
 
 ---
